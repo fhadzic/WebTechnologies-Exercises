@@ -1,0 +1,25 @@
+input {
+  background: none!important;
+  border: none;
+  padding: 0!important;
+  /*optional*/
+  font-family: arial, sans-serif;
+  /*input has OS specific font-family*/
+  color: #069;
+  text-decoration: underline;
+  cursor: pointer;
+  margin: 10px;
+}
+
+div {
+  border: 1px solid black;
+}
+
+#siteLoader {
+  border: 1px solid black;
+  border-top: none;
+}
+
+p{
+  padding: 10px;
+}

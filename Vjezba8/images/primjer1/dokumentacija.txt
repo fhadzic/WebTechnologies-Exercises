@@ -1,0 +1,8 @@
+Nisam našao u developer tools vrijednost broja kojeg u igri treba pogoditi.
+Tražio sam u Application->Cookies->value. 
+Tu postoji vrijednost u obliku stringa, koja vjerovatno pretstavlja kod tražene vrijednosti.
+Dodao sam slike jedne partije ove igre, za primjer1.
+
+Išao sam metodom polovljenja vrijednosti.
+Prvo sam pokušao sa 50, a ostale vrijednosti se vide na slikama.
+62 je bila tražena vrijednost, koju sam pogodio u 7 pokušaju.

@@ -1,0 +1,27 @@
+body{
+    background-color: lightseagreen;
+}
+
+h1{
+    text-align: center;
+}
+
+#col-1 {
+  position: relative;
+  width: 17%;
+  float: left;
+  height: 100%;
+  z-index: 1010101010
+}
+
+#col-2 {
+  position: relative;
+  width: 83%;
+  float: inline-start;
+  height: 100%;
+  z-index: 1010101010
+}
+
+.meta{
+  margin-left: 4em;
+}

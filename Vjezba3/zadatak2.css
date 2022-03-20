@@ -1,0 +1,29 @@
+* {
+    font-family: sans-serif;
+}
+
+table {
+    border: 1px solid black;
+    border-spacing: 0px;
+}
+
+td,
+tr,
+th {
+    border: 1px solid black;
+}
+
+td,
+th {
+    text-align: center;
+    width: 40px;
+    height: 40px;
+}
+
+th {
+    background-color: #CCCCCC;
+}
+
+tr:nth-child(2n+1) {
+    background: #FFF2CC;
+}

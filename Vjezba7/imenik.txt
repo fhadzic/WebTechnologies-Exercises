@@ -1,0 +1,8 @@
+
+ Ferid,Hadzic,Čengić Vila 2,222-333 
+ Meho,Mehić,Nedžarići,444-333 
+ Mahir,Hadžić,Dolac Malta,111-333 
+ Amir,Mulić,Privor,251-858 
+ Meho,Kulaglić,Gmići,770-480    
+ Proba,Kulaglić,Gmići,770-480 
+ Mujo,prezime,adresa,broj_telefona

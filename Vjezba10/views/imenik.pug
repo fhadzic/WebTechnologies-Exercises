@@ -1,0 +1,16 @@
+html
+    head
+        link(rel="stylesheet" href="/static/imenik.css")
+    body
+        table
+            tr
+                td Ime
+                td Prezime
+                td Adresa
+                td Broj telefona
+            for red in results
+                tr
+                    td=red.ime
+                    td=red.prezime
+                    td=red.adresa
+                    td=red.brojTelefona

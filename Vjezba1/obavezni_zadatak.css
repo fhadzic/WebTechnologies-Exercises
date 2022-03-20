@@ -1,0 +1,42 @@
+p:nth-child(even){
+    color: green;
+}
+
+img:first-of-type + p{
+    font-style: italic;
+}
+
+input[type = text]{
+    background-color: grey;
+}
+
+
+input[type=password]{
+    background-color: black;
+    color: white;
+}
+
+input[type=password] ~ input{
+    color: blue;
+}
+
+p:hover{
+    background-color: yellow;
+}
+
+
+
+
+
+/*Bonus*/
+
+p::before{
+    background-image: url('/images/search.png');
+    background-size: 15px 15px;
+    display: inline-block;
+    width: 15px; 
+    height: 15px;
+    content:"";
+}
+
+
